@@ -6,7 +6,7 @@
 
 ###
 
-<div align="right">
+<div align="right" border="solid 1px">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="25" alt="arduino logo"  />
